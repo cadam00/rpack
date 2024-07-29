@@ -13,6 +13,6 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-hello <- function(x) {
-  x^2
+hello <- function() {
+  print("Hello")
 }
